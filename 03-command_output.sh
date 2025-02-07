@@ -2,4 +2,4 @@
 
 DATE=$(date)
 
-echo ("Today's data is :: $DATE")
+echo "Today's data is :: $DATE"
