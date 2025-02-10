@@ -2,5 +2,5 @@
 
 for i in {1..1000}
 do 
-    echp $i
+    echo $i
 done
